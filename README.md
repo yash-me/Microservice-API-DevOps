@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/yash-me/Microservice-API-DevOps.svg?style=svg)](https://circleci.com/gh/yash-me/Microservice-API-DevOps)
+[![CircleCI](https://circleci.com/gh/yash-me/Microservice-API-DevOps-udacity.svg?style=svg)](https://circleci.com/gh/yash-me/Microservice-API-DevOps-udacity)
 
 ## Project Overview
 
